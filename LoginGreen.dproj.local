@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/12/01 14:06:41.000.412,=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/12/01 14:31:31.000.271,C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\EcoSistemas\Login\Modelo 24\View.Login_Green.pas</Transaction>
+    <Transaction>2020/12/01 14:31:31.000.271,C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\EcoSistemas\Login\Modelo 24\View.Login_Green.dfm</Transaction>
+    <Transaction>2020/12/01 14:31:43.000.698,C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\EcoSistemas\Login\Modelo 24\LoginGreen.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
